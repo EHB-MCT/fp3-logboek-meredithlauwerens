@@ -12,6 +12,7 @@
 - wireframes pagina's kaart webversie en mobile (2 pagina's)
 - opzoekwerk custom ai chatbot integreren in website
 - scrumboard telkens aanpassen
+- 2 nieuwe persona's gemaakt (passend met de nieuwe features)
 - alle locaties op een kaart zetten voor visueel inzicht hoe dicht de locaties bij elkaar zitten (idee hoe onze kaart gaat uitzien) > https://www.google.com/maps/d/edit?mid=1lYnSeVThLnJtr6ksk-vZclcA-ezMkuo&usp=sharing
 
 ---
