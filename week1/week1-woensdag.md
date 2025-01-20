@@ -9,7 +9,7 @@
 ## 1) Wat heb ik vandaag gedaan voor mijn project?
 
 - feedback docenten verwerkt > nieuw concept brainstorm
-- wireframes pagina's kaart webversie en mobile (2 pagina's)
+- wireframes pagina's kaart webversie en mobile (2 pagina's) (samen met elyn)
 - opzoekwerk custom ai chatbot integreren in website
 - scrumboard telkens aanpassen
 - 2 nieuwe persona's gemaakt (passend met de nieuwe features)

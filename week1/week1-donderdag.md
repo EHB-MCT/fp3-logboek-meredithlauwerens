@@ -10,9 +10,9 @@
 
 - scope & user stories Groot Eiland (taak product owner) > geüpload
 - alle moodboards en persona's verzameld van iedereen > beste uitgekozen
-- scrumboard aanpassen met nieuwe taken en vervulde taken
+- scrumboard aanpassen met nieuwe taken en vervulde taken (samen met elyn)
 - taken verdeeld onder groep
-- wireframes aanpassen en kleur toevoegen (samen met elyn, lise)
+- wireframes aanpassen en kleur toevoegen op xd (samen met elyn, lise)
 
 ---
 

@@ -12,7 +12,7 @@
 - scrumboard aanvullen met taken volgens feedback klant/docenten
 - nieuwe brainstorm door nieuwe feedback
 - taken verdelen
-- kaart brussel tekenen (samen met elyn)
+- kaart brussel tekenen op xd (samen met elyn)
 
 ---
 

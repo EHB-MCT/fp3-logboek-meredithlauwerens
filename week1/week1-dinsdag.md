@@ -13,7 +13,7 @@
 - moodboard gemaakt over kaart en aangepast met knowledge van vandaag meeting (+ bezoek klant)
 - moodboard met uitleg
 - persona's afgewerkt die een link hebben met het nieuw concept (nieuwe feature)
-- scrumboard aangepast
+- scrumboard aangepast (samen met de groep)
 
 ---
 
