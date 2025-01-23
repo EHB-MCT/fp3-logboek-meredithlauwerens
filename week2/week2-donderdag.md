@@ -14,6 +14,7 @@
 - presentatie voor vrijdag nadenken hoe en wat > opschrijven script presentatie en aanpassingen concept volgens feedback docenten/user testings/klant
 - slides voor presentatie vrijdag maken (samen met elyn)
 - alle paginas op xd afwerken (details: kaart updaten, icons correct, niuewe info bij project zoals openebaar vervoer)
+- design in groep indienen in canvas
 
 ---
 
